@@ -1,88 +1,104 @@
 ---
 RPL Peptide
 
-Knowledge Base
+FAQ Document: Product Information
 
 ---
 
-# FAQ — Frequently Asked Questions About RPL Peptide Products
+# Products & Specifications: Frequently Asked Questions
 
 | Field | Value |
 |-------|-------|
 | **Document ID** | RPL-FAQ-PRD-001 |
-| **Version** | 1.0 |
+| **Document Type** | FAQ |
 | **Publisher** | RPL Peptide (Qingdao RPL Biotechnology Co., Ltd.) |
-| **URL** | https://rplpeptides.com/knowledge-base/product-faq |
-| **Last Updated** | July 2026 |
+| **Version** | 1.0 |
+| **Revision Date** | July 2026 |
+| **Status** | Current |
+| **Intended Audience** | Research laboratories, procurement professionals, biotechnology organizations |
+| **Keywords** | peptide products, purity tiers, labeling, vial sizes, custom synthesis, ordering |
+| **How to Cite This Document** | RPL Peptide. (2026). *Products & Specifications: Frequently Asked Questions* (Version 1.0). RPL Peptide FAQ. https://rplpeptides.com |
 
 ---
 
-## 1. General Product Information
+## (1) General Product Information
 
-### Q1: What types of peptides does RPL Peptide offer?
-**A:** RPL Peptide offers a comprehensive range of research-grade peptides including GLP-1 receptor agonists (Semaglutide, Tirzepatide, Retatrutide), growth hormone secretagogues (GHRP-2, GHRP-6, Ipamorelin, Tesamorelin), wound healing and tissue repair peptides (BPC-157, TB-500, BPC-157+TB-500 blend), copper peptides (GHK-Cu, AHK-Cu), mitochondrial peptides (MOTS-C, NAD+), and many more. Visit our full product catalog at https://rplpeptides.com/product-list/ for a complete listing.
+**Q1: What product categories does RPL Peptide offer?**
 
-### Q2: Are your peptides for research use only?
-**A:** Yes. All peptides sold by RPL Peptide are intended for research and laboratory use only. They are not approved for human or veterinary consumption, not for therapeutic use, and not for diagnostic purposes. Researchers are responsible for ensuring compliance with all applicable regulations.
+RPL Peptide's catalog spans multiple research peptide classes, including GLP-1 and incretin analogs (Semaglutide, Tirzepatide, Retatrutide, Liraglutide, Exendin-4), growth hormone-related peptides (GHRP-2, GHRP-6, CJC-1295, Sermorelin, Ipamorelin), melanocortin peptides (Melanotan I and II, PT-141), neuropeptides and nootropics (Cerebrolysin fragments, Semax, Selank), and other research tools such as BPC-157, TB-500, thymic peptides, and antimicrobial peptides. We also offer a comprehensive catalog of amino acid derivatives and modification reagents.
 
-### Q3: What purity levels are available?
-**A:** Our standard purity is ≥98% by analytical HPLC. Many products are available at ≥99% purity. The exact purity for each batch is provided on the Certificate of Analysis (COA). Please refer to our Purity FAQ at https://rplpeptides.com/knowledge-base/quality-control-faq for more details.
+**Q2: What purity tiers are available?**
 
-### Q4: How do I know which peptide is right for my research?
-**A:** We recommend reviewing the product description, CAS number, molecular formula, and published literature for each peptide. For specific guidance, contact our support team via the website at https://rplpeptides.com/contact.
+We offer two standard purity tiers. Research Grade (98%) is suitable for most in vitro applications, cell signaling studies, and general biochemical assays. High Purity (99%) is recommended for receptor binding studies, in vivo research, structural biology, and any application where maximum purity is critical to data quality. The additional purification pass required for 99% purity removes trace deletion sequences and byproducts that may confound sensitive assays.
 
-### Q5: Do you provide custom peptide synthesis?
-**A:** Yes. We offer custom peptide synthesis services for research applications. Contact us through https://rplpeptides.com/contact with your sequence, purity requirements, and quantity.
+**Q3: How is peptide purity actually measured and reported?**
 
----
+Purity is determined by reversed-phase high-performance liquid chromatography (RP-HPLC) with UV detection at 214 nm, the standard wavelength for peptide bond absorption. The reported purity corresponds to the area percent of the main peak relative to the total integrated peak area in the chromatogram. A full HPLC chromatogram is provided with each Certificate of Analysis (COA), allowing you to visually inspect the separation profile. Identity is confirmed independently by liquid chromatography-mass spectrometry (LC-MS), ensuring the main peak corresponds to the correct molecular weight.
 
-## 2. Product Specifications
+**Q4: What is peptide content, and how is it different from HPLC purity?**
 
-### Q6: What information is included on the product label?
-**A:** Each product label includes the peptide name, batch/lot number, quantity (mg per vial), storage conditions, date of manufacture, and a scannable QR code linking to the COA. A sample label is shown in our Documentation FAQ at https://rplpeptides.com/knowledge-base/documentation-faq.
-
-### Q7: What is the typical peptide content percentage?
-**A:** Peptide content (the percentage of peptide by weight, excluding counter-ions and moisture) varies by product. Typical values range from 70–90%. The exact content for each batch is reported on the Certificate of Analysis. Detailed information about counter-ions and their effect on content can be found in our counter-ion education white paper at https://rplpeptides.com/white-papers/counter-ion-guide.
-
-### Q8: What is the difference between "net peptide weight" and "gross weight"?
-**A:** Gross weight is the total weight of the vial contents (peptide + counter-ion + residual moisture). Net peptide weight is the mass of the peptide alone, calculated by multiplying gross weight by the peptide content percentage. Always use net peptide weight for calculating reconstitution volumes.
+HPLC purity measures the relative abundance of the target peptide among all UV-absorbing species in the sample, expressed as a percentage of total peak area. Peptide content, by contrast, measures the absolute amount of peptide substance (by mass) in the vial, accounting for residual water (measured by Karl Fischer titration), residual solvents, and counter-ions such as trifluoroacetate (TFA) from HPLC purification. A typical peptide content of 70–90% is normal. The balance is not impurity — it is non-peptide mass (water, counter-ion). Both values are reported on the COA.
 
 ---
 
-## 3. Ordering and Availability
+## (2) Product Specifications & Labeling
 
-### Q9: What quantities are available?
-**A:** Products are available in standard vial sizes ranging from 1 mg to 1 g per vial. Custom quantities may be available upon request.
+**Q5: What information appears on the product label?**
 
-### Q10: Can I order a sample before purchasing in bulk?
-**A:** Yes. Please contact us at https://rplpeptides.com/contact to discuss sample availability.
+Each vial label includes the product name, sequence length and modification status (where applicable), batch/lot number, net peptide content (mg per vial), storage conditions, date of manufacture, expiry date, and a "For Research Use Only. Not for human use." disclaimer. A scannable QR code or barcode links to the batch-specific documentation where available.
 
-### Q11: How do I place an order?
-**A:** Orders can be placed through our website https://rplpeptides.com or by contacting our sales team. We accept various payment methods; please see our Procurement FAQ at https://rplpeptides.com/knowledge-base/procurement-faq for details.
+**Q6: What is the difference between net weight and gross weight?**
 
-### Q12: What is your minimum order quantity?
-**A:** There is no minimum order quantity for standard catalog items. Custom synthesis projects may have minimums.
+Net weight refers to the mass of the peptide itself (the active substance), as confirmed by the QC assay and stated on the label. Gross weight is the total mass of the vial contents, which includes the peptide plus residual water, counter-ion, and solvent. The gross weight is always higher than the net weight. When reconstituting, always refer to the net peptide content to calculate the correct reconstitution volume.
+
+**Q7: What vial sizes and packaging options are available?**
+
+Catalog peptides are typically packaged in sterilized amber glass vials with rubber septa and flip-off aluminum seals. Standard fill sizes include 5 mg, 10 mg, 25 mg, 50 mg, and 100 mg net peptide content per vial. Bulk quantities (500 mg, 1 g, and above) may be supplied in larger glass containers or sealed pouches. Custom packaging for specific fill weights is available upon request.
+
+**Q8: How should the product be stored upon arrival?**
+
+Lyophilized (freeze-dried) peptides should be stored at −20 °C in a frost-free freezer, protected from light and moisture. Under these conditions, most peptides remain stable for two or more years from the date of manufacture. Storage at 2–8 °C is acceptable for short-term periods (weeks to a few months) but long-term stability is best at −20 °C. Peptides should be warmed to room temperature in a desiccator before opening to prevent condensation from compromising the lyophilized powder.
 
 ---
 
-## 4. Technical Support
+## (3) Ordering & Availability
 
-### Q13: Do you provide technical support?
-**A:** Yes. Our team can assist with product selection, reconstitution protocols, analytical data interpretation, and experimental design. Visit https://rplpeptides.com/contact to reach us.
+**Q9: What are the minimum order quantities?**
 
-### Q14: Where can I find more educational resources?
-**A:** Our white paper library at https://rplpeptides.com/white-papers includes detailed guides on peptide purity, HPLC interpretation, COA reading, counter-ions, lyophilization, reconstitution, stability, storage, handling, and peptide synthesis methods.
+We maintain no strict minimum order quantity for catalog products. Orders are accepted from milligram-scale research quantities (single vials) through gram-scale and kilogram-scale bulk production. Custom synthesis projects typically start at a minimum of 10–50 mg of crude peptide, with final yield depending on sequence length, difficulty, and the purity target.
+
+**Q10: Does RPL Peptide offer custom peptide synthesis?**
+
+Yes. Custom peptide synthesis is a core service. We can manufacture sequences up to approximately 50–60 amino acids using Fmoc solid-phase peptide synthesis (SPPS). Custom services include incorporation of non-standard amino acids, modifications (acetylation, amidation, biotinylation, fluorescent labeling, PEGylation, phosphorylation), disulfide bridge formation, and isotopic labeling for NMR studies. A standard custom peptide (up to 30 amino acids) typically requires 2–4 weeks from order to shipment, inclusive of QC testing.
+
+**Q11: Can I order blend or formulated products?**
+
+Yes. We can prepare custom blends of two or more peptides in a single vial or package. Typical applications include research formulations combining GLP-1 analogs with other metabolic peptides. Please contact our technical sales team with your desired composition and fill specifications for a custom quotation.
+
+**Q12: Are there minimum order quantities for bulk or custom orders?**
+
+For catalog bulk orders (same peptide, same specification), no minimum is enforced beyond the standard single-vial threshold. For custom synthesis of novel sequences or proprietary analogs, a minimum of 50 mg crude yield is typical, though exceptions can be made for expensive or difficult modifications. Pricing is scale-dependent: unit cost decreases significantly at larger batch sizes.
+
+**Q13: What information do I need to provide for a custom peptide order?**
+
+A full custom synthesis request should include the peptide sequence (single-letter or three-letter amino acid code with termini specified), any modifications (N-terminal, C-terminal, side-chain), desired purity tier (98% or 99%), target quantity, and any special requirements (disulfide pattern, isotopic labeling, specific counter-ion). Our technical team will review your sequence, assess synthetic feasibility, and provide a quotation.
+
+**Q14: How do I place an order?**
+
+Orders can be placed through our website or by contacting our sales team directly. We accept inquiries via email, phone, and online messaging channels. International orders are shipped via express courier with appropriate cold-chain packaging (gel packs or dry ice) depending on the product and destination.
 
 ---
 
 ## Document Revision History
 
-| Version | Date | Changes |
-|:-------:|:----:|:--------|
-| 1.0 | July 2026 | Initial release |
+| Version | Date | Author | Changes |
+|:-------:|:----:|--------|---------|
+| 1.0 | July 2026 | RPL Peptide Quality | Initial release |
 
 ---
 
 © 2026 RPL Peptide
+
+FAQ Document
 
 rplpeptides.com
