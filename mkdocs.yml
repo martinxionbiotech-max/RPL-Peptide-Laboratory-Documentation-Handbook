@@ -6,7 +6,7 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
+  - Home: Index.md
 
   - Products:
       - Product Documentation: products/index.md
