@@ -1,6 +1,6 @@
-site_name: Documentation Center
+site_name: RPL Peptide Laboratory Documentation Handbook
 
-site_description: Technical Documentation and Knowledge Base
+site_description: Research peptide technical documentation, specification sheets, COA and laboratory resources
 
 theme:
   name: material
@@ -12,10 +12,16 @@ nav:
       - Product Documentation: products/index.md
 
   - Technical Sheets:
-      - Tech Sheets: tech-sheets/index.md
+      - Technical Documentation: tech-sheets/index.md
+
+  - Certificates:
+      - Certificates: certificates/index.md
 
   - FAQ:
-      - Frequently Asked Questions: faq/index.md
+      - FAQ: faq/index.md
+
+  - Glossary:
+      - Peptide Glossary: glossary/index.md
 
 
 plugins:
@@ -28,7 +34,3 @@ markdown_extensions:
   - tables
   - admonition
   - footnotes
-
-
-extra:
-  generator: false
