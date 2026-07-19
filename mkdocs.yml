@@ -1,36 +1,193 @@
 site_name: RPL Peptide Laboratory Documentation Handbook
 
-site_description: Research peptide technical documentation, specification sheets, COA and laboratory resources
+site_description: Research Peptide Technical Documentation, Laboratory Resources, COA, Specification Sheets and Scientific Reference Materials.
+
+site_url: https://docs.rplpeptides.com
+
+repo_url: https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook
 
 theme:
   name: material
 
-nav:
-  - Home: Index.md
-
-  - Products:
-      - Product Documentation: products/index.md
-
-  - Technical Sheets:
-      - Technical Documentation: tech-sheets/index.md
-
-  - Certificates:
-      - Certificates: certificates/index.md
-
-  - FAQ:
-      - FAQ: faq/index.md
-
-  - Glossary:
-      - Peptide Glossary: glossary/index.md
-
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
 
 plugins:
   - search
 
+nav:
+
+  - Home: index.md
+
+  - Product Documentation:
+
+      - 5 Amino 1MQ:
+          5amino1mq-complete-documentation.md
+
+      - AHK-Cu:
+          ahk-cu-complete-documentation.md
+
+      - AOD9604:
+          aod9604-complete-documentation.md
+
+      - BPC-157:
+          bpc157-complete-documentation.md
+
+      - BPC-157 + TB500:
+          bpc157-tb500-complete-documentation.md
+
+      - Cagrilintide:
+          cagrilintide-complete-documentation.md
+
+      - CJC-1295:
+          cjc1295-complete-documentation.md
+
+      - DSIP:
+          dsip-complete-documentation.md
+
+      - Epithalon:
+          epithalon-complete-documentation.md
+
+      - GHK-Cu:
+          ghk-cu-complete-documentation.md
+
+      - GLOW70:
+          glow70-complete-documentation.md
+
+      - Ipamorelin:
+          ipamorelin-complete-documentation.md
+
+      - KLOW80:
+          klow80-complete-documentation.md
+
+      - KPV:
+          kpv-complete-documentation.md
+
+      - MOTS-C:
+          motsc-complete-documentation.md
+
+      - NAD+:
+          nadplus-complete-documentation.md
+
+      - Retatrutide:
+          retatrutide-complete-documentation.md
+
+      - Semaglutide:
+          semaglutide-complete-documentation.md
+
+      - TB-500:
+          tb500-complete-documentation.md
+
+      - Tesamorelin:
+          tesamorelin-complete-documentation.md
+
+      - Tirzepatide:
+          tirzepatide-complete-documentation.md
+
+  - FAQ:
+
+      - FAQ Home:
+          FAQ/README.md
+
+      - COA FAQ:
+          FAQ/coa-faq.md
+
+      - HPLC FAQ:
+          FAQ/hplc-faq.md
+
+      - Product FAQ:
+          FAQ/product-faq.md
+
+      - Stability FAQ:
+          FAQ/stability-faq.md
+
+      - Storage FAQ:
+          FAQ/storage-faq.md
+
+      - Solubility FAQ:
+          FAQ/solubility-faq.md
+
+      - Reconstitution FAQ:
+          FAQ/reconstitution-faq.md
+
+  - Glossary:
+
+      - Glossary Home:
+          glossary/README.md
+
+      - Abbreviations:
+          glossary/abbreviations.md
+
+      - Peptide Glossary:
+          glossary/peptide-glossary.md
+
+  - Laboratory Guides:
+
+      - Guides Home:
+          guides/README.md
+
+      - COA Interpretation:
+          guides/peptide-coa-interpretation-guide.md
+
+      - Peptide Handling:
+          guides/peptide-handling-guide.md
+
+      - Quality Control:
+          guides/peptide-quality-control-guide.md
+
+      - Storage Guide:
+          guides/peptide-storage-guide.md
+
+      - Stability Guide:
+          guides/peptide-stability-guide.md
+
+      - Reconstitution Guide:
+          guides/peptide-reconstitution-guide.md
+
+  - White Papers:
+
+      - White Papers:
+          white-papers/README.md
+
+      - Choosing a Supplier:
+          white-papers/choosing-a-peptide-supplier.md
+
+      - Understanding Peptide Purity:
+          white-papers/understanding-peptide-purity.md
+
+      - Peptide Synthesis Methods:
+          white-papers/peptide-synthesis-methods.md
+
+      - Lyophilization Overview:
+          white-papers/lyophilization-overview.md
 
 markdown_extensions:
+
   - toc:
       permalink: true
+
   - tables
+
   - admonition
+
   - footnotes
+
+  - pymdownx.highlight
+
+  - pymdownx.superfences
+
+  - pymdownx.details
+
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - attr_list
+
+  - md_in_html
