@@ -3,69 +3,170 @@
 ![Language](https://img.shields.io/badge/Language-English-informational)
 ![Research Use Only](https://img.shields.io/badge/RUO-Laboratory%20Research-orange)
 
-# RPL Peptide Documentation
+# RPL Peptide Research Documentation Repository
 
-> Official Technical Documentation Repository for Synthetic Peptide Research
+> Official Technical Knowledge Base of RPL Peptide
 
-This repository provides openly accessible technical documentation, laboratory reference materials, analytical guidance, and quality documentation supporting synthetic peptide research.
+This repository is the official public technical documentation repository of **RPL Peptide**.
 
-Our mission is to improve transparency, traceability, and scientific communication by providing standardized documentation for researchers, laboratories, biotechnology companies, quality assurance professionals, and procurement specialists worldwide.
+Website:
+
+https://rplpeptides.com
+
+RPL Peptide provides research-grade synthetic peptide materials and technical documentation resources supporting laboratory research, analytical development, biotechnology applications, and scientific reference activities.
+
+This repository serves as the structured knowledge base supporting the official RPL Peptide website, including product documentation, analytical references, quality documentation, laboratory guides, and peptide research resources.
 
 ---
 
-## Documentation Categories
+# About RPL Peptide
 
-### Product Documentation
+**RPL Peptide** is a biotechnology documentation and research materials provider focused on synthetic peptide research resources.
+
+The RPL Peptide Documentation Program is designed to improve transparency, consistency, and accessibility of technical information related to research peptides.
+
+Primary documentation areas include:
+
+- Research peptide information
+- Technical documentation
+- Analytical references
+- Quality documentation
+- Laboratory reference materials
+- Peptide terminology resources
+
+Official website:
+
+https://rplpeptides.com
+
+---
+
+# Documentation Purpose
+
+The purpose of this repository is to provide structured technical information for:
+
+- Research laboratories
+- Biotechnology companies
+- Academic institutions
+- Scientific organizations
+- Quality assurance professionals
+- Quality control professionals
+- Research procurement specialists
+
+Documentation is maintained using version control principles to improve traceability, consistency, and long-term accessibility.
+
+---
+
+# Research Peptide Documentation
+
+This repository contains structured documentation for research-use-only peptide materials.
+
+Current documentation categories include:
+
+## Product Documentation
+
+Technical information may include:
+
+- Product identity
+- Alternative names
+- Peptide classification
+- Molecular characteristics
+- Molecular formula
+- Molecular weight
+- Amino acid sequence
+- Physical characteristics
+- Storage information
+- Research classification
+- Quality documentation references
+
+Current peptide documentation includes:
+
+- Tirzepatide
+- Semaglutide
+- Retatrutide
+- Cagrilintide
+- BPC-157
+- TB-500
+- CJC-1295
+- Additional research peptides
+
+---
+
+# Documentation Categories
+
+## Technical Documentation
+
+Includes:
 
 - Technical Data Sheets (TDS)
 - Product Specifications
-- Certificates of Analysis (COA)
-- Safety Data Sheets (SDS)
+- Certificate of Analysis (COA) references
+- Safety Data Sheet (SDS) references
+- Quality documentation
 
-### Laboratory Guides
+---
 
-- Storage Guides
-- Stability Guides
-- Solubility Guides
-- Reconstitution Guides
+## Laboratory Reference Guides
 
-### Analytical References
+Includes:
 
-- HPLC Interpretation
+- Storage information
+- Stability references
+- Solubility references
+- Laboratory handling documentation
+- Research documentation guides
+
+---
+
+## Analytical References
+
+Includes technical resources related to:
+
+- High Performance Liquid Chromatography (HPLC)
 - Mass Spectrometry (MS)
-- Analytical Methods
-- Quality Control References
+- Analytical testing concepts
+- Quality control references
+- Laboratory documentation standards
 
-### Knowledge Resources
+---
 
-- White Papers
-- Technical Bulletins
-- Application Notes
+## Knowledge Resources
+
+Includes:
+
+- Research articles summaries
+- Technical bulletins
+- Application notes
 - Frequently Asked Questions (FAQ)
-- Peptide Glossary
+- Peptide glossary
+- Scientific terminology references
 
 ---
 
 # Repository Structure
+RPL-Peptide-Research-Documentation
 
-```
-RPL-Peptide-Documentation
 │
 ├── docs/
-│   ├── tirzepatide/
-│   ├── semaglutide/
-│   ├── retatrutide/
-│   ├── cagrilintide/
-│   ├── bpc157/
-│   ├── tb500/
-│   ├── cjc1295/
-│   └── ...
+│ ├── peptides/
+│ │ ├── tirzepatide/
+│ │ ├── semaglutide/
+│ │ ├── retatrutide/
+│ │ ├── cagrilintide/
+│ │ ├── bpc157/
+│ │ ├── tb500/
+│ │ └── cjc1295/
+│ │
+│ ├── analytical/
+│ │
+│ ├── quality/
+│ │
+│ ├── faq/
+│ │
+│ └── glossary/
 │
 ├── guides/
 │
 ├── handbook/
-│
-├── glossary/
 │
 ├── specifications/
 │
@@ -76,145 +177,151 @@ RPL-Peptide-Documentation
 ├── DOCUMENTATION_POLICY.md
 ├── DISCLAIMER.md
 └── LICENSE
-```
 
 ---
 
-# Current Documentation
+# Current Documentation Status
 
-| Product | Status |
-|----------|--------|
-| Tirzepatide | ✅ Available |
-| Semaglutide | 🚧 In Progress |
-| Retatrutide | 🚧 In Progress |
-| BPC-157 | 🚧 In Progress |
-| TB-500 | 🚧 In Progress |
-| CJC-1295 | 🚧 In Progress |
+| Documentation | Status |
+|---|---|
+| Tirzepatide Research Documentation | ✅ Available |
+| Semaglutide Research Documentation | ✅ Available |
+| Retatrutide Research Documentation | ✅ Available |
+| Cagrilintide Research Documentation | ✅ Available |
+| BPC-157 Research Documentation | ✅ Available |
+| TB-500 Research Documentation | ✅ Available |
+| CJC-1295 Research Documentation | ✅ Available |
 
-Additional documentation will be published as technical reviews are completed.
+Additional technical documentation will be continuously developed and reviewed.
 
 ---
 
 # Documentation Principles
 
-The RPL Documentation Program follows several core principles:
+The RPL Peptide Documentation Program follows:
 
 - Scientific accuracy
-- Documentation transparency
-- Batch traceability
+- Transparent documentation
 - Standardized terminology
-- Laboratory best practices
-- Version control
+- Traceable revisions
+- Consistent formatting
+- Laboratory reference practices
 - Continuous improvement
 
-Every document is reviewed before publication and updated whenever significant technical revisions become necessary.
+Each document may include:
 
----
-
-# Intended Audience
-
-This repository is designed for:
-
-- Research laboratories
-- Universities
-- Biotechnology companies
-- Pharmaceutical research organizations
-- Quality Assurance (QA)
-- Quality Control (QC)
-- Procurement specialists
-- Scientific distributors
+- Document ID
+- Version number
+- Publication date
+- Revision history
+- Document status
 
 ---
 
 # Documentation Standards
 
-Depending on document type, technical documentation may include:
+Depending on document type, technical records may include:
 
-- Product identity
+- Product identification
+- Chemical information
 - Molecular characteristics
-- Molecular formula
-- Molecular weight
-- Amino acid sequence
-- Physical appearance
-- Solubility information
-- Storage recommendations
-- Stability guidance
-- Packaging specifications
+- Analytical references
 - Quality specifications
-- HPLC references
-- Mass spectrometry references
-- Laboratory handling guidance
-- Research Use Only (RUO) statement
+- Documentation references
+- Research classification
+- Version information
+
+---
+
+# Research Use Only (RUO) Disclaimer
+
+All documentation contained within this repository is provided exclusively for:
+
+- Laboratory research reference
+- Scientific communication
+- Educational purposes
+- Technical documentation purposes
+
+Products and information described in this repository are intended for **Research Use Only (RUO)** unless otherwise specified.
+
+Nothing contained within this repository should be interpreted as:
+
+- Medical advice
+- Clinical recommendation
+- Therapeutic guidance
+- Human or veterinary use instructions
+
+---
+
+# Official Website and Documentation Relationship
+
+This GitHub repository represents the public technical documentation component of RPL Peptide.
+
+Official website:
+
+https://rplpeptides.com
+
+The website provides:
+
+- Company information
+- Product information
+- Business inquiries
+- Commercial documentation access
+
+This repository provides:
+
+- Structured technical references
+- Research documentation
+- Knowledge resources
+- Laboratory documentation materials
 
 ---
 
 # Repository Roadmap
 
-Future documentation categories include:
+Future documentation development includes:
 
-- Complete Technical Documentation
-- Laboratory Documentation Handbook
-- HPLC Reference Library
-- Mass Spectrometry Library
-- COA Interpretation Guide
-- Technical Data Sheet Guide
-- Storage Handbook
-- Solubility Handbook
-- Stability Handbook
-- Peptide Documentation Standards
+- Complete peptide documentation library
+- Laboratory documentation handbook
+- HPLC reference library
+- Mass spectrometry reference library
+- COA interpretation guide
+- Technical Data Sheet standards
+- Peptide terminology database
+- Research documentation standards
 
 ---
 
-# Version Control
+# Citation
 
-All documentation follows a standardized revision process.
+When referencing information from this repository, please cite:
 
-Each document includes:
+**RPL Peptide Research Documentation Repository**
 
-- Document ID
-- Version Number
-- Publication Date
-- Last Updated
-- Revision History
-- Document Status
+including:
 
-Historical revisions are maintained to ensure documentation traceability.
+- Document title
+- Version number
+- Repository URL
+- Access date
 
 ---
 
-# Disclaimer
-
-The documentation contained in this repository is provided exclusively for laboratory reference, scientific communication, quality documentation, and educational purposes.
-
-Products described in these documents are intended for **Research Use Only (RUO)** unless otherwise specified.
-
-Nothing contained within this repository should be interpreted as medical advice, therapeutic guidance, clinical recommendations, or instructions for human or veterinary use.
-
----
-
-# About RPL Peptide Documentation
-
-The **RPL Peptide Documentation Program** is an ongoing initiative dedicated to developing standardized technical documentation for synthetic peptide research.
-
-Our objective is to improve the accessibility, consistency, and transparency of peptide-related laboratory documentation through continuously maintained technical references, analytical guidance, and quality documentation.
-
-This repository represents the public documentation component of that initiative.
-
----
-
-## Repository Information
+# Repository Information
 
 | Item | Details |
-|------|---------|
-| Repository Status | Active |
+|---|---|
+| Organization | RPL Peptide |
+| Website | https://rplpeptides.com |
+| Repository Type | Official Technical Knowledge Base |
 | Documentation Language | English |
-| Document Type | Technical Documentation Repository |
-| License | See LICENSE |
+| Documentation Scope | Research Peptide Technical Documentation |
+| Repository Status | Active |
 | Last Updated | July 2026 |
 
 ---
 
-### Citation
+# Keywords
 
-When referencing documentation contained in this repository, please cite the relevant document title together with the repository name and document version where appropriate.
+RPL Peptide, research peptides, synthetic peptides, peptide documentation, peptide technical data sheets, laboratory documentation, peptide analysis, HPLC reference, mass spectrometry, biotechnology research, research use only peptides, peptide knowledge base.
 
