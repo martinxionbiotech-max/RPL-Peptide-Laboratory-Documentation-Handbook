@@ -17,12 +17,11 @@ theme:
   language: en
 
   features:
-    # 已移除 navigation.tabs，恢复经典的左侧多级导航树
-    - navigation.sections    # 将一级目录渲染为分组区块
-    - navigation.expand      # 默认展开左侧所有子菜单（不需要可删除）
-    - navigation.top         # 悬浮返回顶部按钮
-    - navigation.footer      # 底部上一页/下一页导航
-    - navigation.indexes     # 允许直接点击分类目录进入索引页
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -88,12 +87,13 @@ nav:
       - Lyophilization Overview: white-papers/lyophilization-overview.md
 
   - About:
-      - About RPL Peptide: about/README.md  # 提示：请确保 docs/about/ 路径下新建了 README.md 或 index.md
+      - About RPL Peptide: about/README.md
       - Structured Data: about/schema.md
 
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 2-4
   - tables
   - admonition
   - footnotes
