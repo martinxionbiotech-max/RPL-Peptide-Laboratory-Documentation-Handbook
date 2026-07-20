@@ -4,26 +4,37 @@
 {% block extrahead %}
 
 
+<!-- ============================= -->
+<!-- RPL Peptide Organization Schema -->
+<!-- ============================= -->
+
+
 <script type="application/ld+json">
 
 {
- "@context":"https://schema.org",
+  "@context": "https://schema.org",
 
- "@type":"Organization",
+  "@type": "Organization",
 
- "@id":"https://rplpeptides.com/#organization",
+  "@id": "https://rplpeptides.com/#organization",
 
- "name":"RPL Peptide",
+  "name": "RPL Peptide",
 
- "url":"https://rplpeptides.com",
+  "url": "https://rplpeptides.com",
 
- "description":"RPL Peptide provides research-grade peptide materials and laboratory documentation resources.",
+  "description":
+  "RPL Peptide provides research-grade peptide materials and official technical documentation resources for laboratory research applications.",
 
- "sameAs":[
+  "brand":
+  {
+    "@type": "Brand",
+    "name": "RPL Peptide"
+  },
 
- "https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook"
-
- ]
+  "sameAs":
+  [
+    "https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook"
+  ]
 
 }
 
@@ -31,9 +42,15 @@
 
 
 
+<!-- ============================= -->
+<!-- Website Schema -->
+<!-- ============================= -->
+
+
 <script type="application/ld+json">
 
 {
+
  "@context":"https://schema.org",
 
  "@type":"WebSite",
@@ -44,11 +61,34 @@
 
  "name":"RPL Peptide Laboratory Documentation Handbook",
 
- "publisher":{
+ "description":
+ "Official technical documentation center containing research peptide documentation, COA resources, laboratory guides and scientific references.",
 
- "@id":"https://rplpeptides.com/#organization"
+
+ "publisher":
+ {
+   "@id":"https://rplpeptides.com/#organization"
+ },
+
+
+ "potentialAction":
+ {
+
+   "@type":"SearchAction",
+
+   "target":
+   {
+     "@type":"EntryPoint",
+
+     "urlTemplate":
+     "https://data.rplpeptides.com/search/?q={search_term_string}"
+   },
+
+   "query-input":
+   "required name=search_term_string"
 
  }
+
 
 }
 
@@ -56,43 +96,63 @@
 
 
 
+
+<!-- ============================= -->
+<!-- Dataset Schema -->
+<!-- ============================= -->
+
+
 <script type="application/ld+json">
 
 {
+
  "@context":"https://schema.org",
 
  "@type":"Dataset",
 
  "@id":"https://data.rplpeptides.com/#dataset",
 
- "name":"RPL Peptide Laboratory Documentation Dataset",
 
- "description":"Structured research peptide technical documentation including COA resources, specifications and laboratory reference materials.",
+ "name":
+ "RPL Peptide Laboratory Documentation Dataset",
 
- "creator":{
 
- "@id":"https://rplpeptides.com/#organization"
+ "description":
+ "A structured scientific documentation dataset containing research peptide technical information, analytical references, COA resources and laboratory knowledge materials.",
 
+
+ "url":
+ "https://data.rplpeptides.com",
+
+
+ "creator":
+ {
+   "@id":"https://rplpeptides.com/#organization"
  },
 
- "keywords":[
 
- "research peptides",
-
- "COA",
-
- "HPLC",
-
- "peptide documentation",
-
- "laboratory research"
-
+ "keywords":
+ [
+   "research peptides",
+   "peptide documentation",
+   "COA",
+   "HPLC",
+   "mass spectrometry",
+   "laboratory research",
+   "synthetic peptides"
  ]
 
 }
 
 </script>
 
+
+
+
+
+<!-- ============================= -->
+<!-- Article / Documentation Schema -->
+<!-- ============================= -->
 
 
 {% if page %}
@@ -104,23 +164,46 @@
 
  "@context":"https://schema.org",
 
+
  "@type":"TechArticle",
 
- "headline":"{{ page.title }}",
 
- "url":"{{ page.canonical_url }}",
+ "headline":
+ "{{ page.title }}",
 
- "author":{
 
- "@id":"https://rplpeptides.com/#organization"
+ "url":
+ "{{ page.canonical_url }}",
 
+
+ "author":
+ {
+   "@id":"https://rplpeptides.com/#organization"
  },
 
- "publisher":{
 
- "@id":"https://rplpeptides.com/#organization"
+ "publisher":
+ {
+   "@id":"https://rplpeptides.com/#organization"
+ },
 
+
+ "mainEntityOfPage":
+ {
+   "@type":"WebPage",
+
+   "@id":"{{ page.canonical_url }}"
+ },
+
+
+ "about":
+ {
+   "@type":"Thing",
+
+   "name":
+   "Research Peptide Technical Documentation"
  }
+
 
 }
 
@@ -128,6 +211,113 @@
 
 
 {% endif %}
+
+
+
+{% endblock %}
+
+
+
+
+
+
+<!-- ============================= -->
+<!-- Custom SEO Footer -->
+<!-- ============================= -->
+
+
+{% block footer %}
+
+
+<footer class="md-footer">
+
+
+<div class="md-footer-meta md-typeset">
+
+
+<div class="md-footer-meta__inner md-grid">
+
+
+<div>
+
+
+<p>
+
+© 2026
+
+<a href="https://rplpeptides.com"
+target="_blank"
+rel="noopener">
+
+RPL Peptide
+
+</a>
+
+</p>
+
+
+
+<p>
+
+Official Technical Documentation Center
+
+</p>
+
+
+
+
+<p>
+
+Website:
+
+<a href="https://rplpeptides.com"
+target="_blank"
+rel="noopener">
+
+rplpeptides.com
+
+</a>
+
+</p>
+
+
+
+
+<p>
+
+Source Repository:
+
+<a href="https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook"
+target="_blank"
+rel="noopener">
+
+GitHub Documentation Repository
+
+</a>
+
+</p>
+
+
+
+
+<p>
+
+Research Use Only Documentation
+
+</p>
+
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</footer>
 
 
 {% endblock %}
