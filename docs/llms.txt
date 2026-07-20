@@ -1,0 +1,57 @@
+# RPL Peptide Laboratory Documentation Handbook
+
+
+## About
+
+RPL Peptide Laboratory Documentation Handbook is the official technical knowledge center for research peptide documentation.
+
+
+## Website
+
+https://rplpeptides.com
+
+
+## Documentation Center
+
+https://data.rplpeptides.com
+
+
+## Contents
+
+This documentation contains:
+
+- Research peptide technical documentation
+- Product specification sheets
+- Certificate of Analysis (COA) resources
+- Laboratory research guides
+- Peptide glossary
+- Quality control information
+- Analytical testing references
+
+
+## Products Covered
+
+Including:
+
+- BPC-157
+- TB-500
+- Tirzepatide
+- Semaglutide
+- Retatrutide
+- Cagrilintide
+- NAD+
+- GHK-Cu
+- AHK-Cu
+- Research peptides and related laboratory materials
+
+
+## Purpose
+
+The information provided is intended for scientific research, analytical development, and laboratory reference purposes only.
+
+
+## Organization
+
+RPL Peptide
+
+Official Research Peptide Documentation Repository

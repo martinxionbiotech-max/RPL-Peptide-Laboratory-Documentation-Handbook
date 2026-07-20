@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+
+{% block extrahead %}
+
+
+<script type="application/ld+json">
+
+{
+ "@context":"https://schema.org",
+
+ "@type":"Organization",
+
+ "@id":"https://rplpeptides.com/#organization",
+
+ "name":"RPL Peptide",
+
+ "url":"https://rplpeptides.com",
+
+ "description":"RPL Peptide provides research-grade peptide materials and laboratory documentation resources.",
+
+ "sameAs":[
+
+ "https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook"
+
+ ]
+
+}
+
+</script>
+
+
+
+<script type="application/ld+json">
+
+{
+ "@context":"https://schema.org",
+
+ "@type":"WebSite",
+
+ "@id":"https://data.rplpeptides.com/#website",
+
+ "url":"https://data.rplpeptides.com",
+
+ "name":"RPL Peptide Laboratory Documentation Handbook",
+
+ "publisher":{
+
+ "@id":"https://rplpeptides.com/#organization"
+
+ }
+
+}
+
+</script>
+
+
+
+<script type="application/ld+json">
+
+{
+ "@context":"https://schema.org",
+
+ "@type":"Dataset",
+
+ "@id":"https://data.rplpeptides.com/#dataset",
+
+ "name":"RPL Peptide Laboratory Documentation Dataset",
+
+ "description":"Structured research peptide technical documentation including COA resources, specifications and laboratory reference materials.",
+
+ "creator":{
+
+ "@id":"https://rplpeptides.com/#organization"
+
+ },
+
+ "keywords":[
+
+ "research peptides",
+
+ "COA",
+
+ "HPLC",
+
+ "peptide documentation",
+
+ "laboratory research"
+
+ ]
+
+}
+
+</script>
+
+
+
+{% if page %}
+
+
+<script type="application/ld+json">
+
+{
+
+ "@context":"https://schema.org",
+
+ "@type":"TechArticle",
+
+ "headline":"{{ page.title }}",
+
+ "url":"{{ page.canonical_url }}",
+
+ "author":{
+
+ "@id":"https://rplpeptides.com/#organization"
+
+ },
+
+ "publisher":{
+
+ "@id":"https://rplpeptides.com/#organization"
+
+ }
+
+}
+
+</script>
+
+
+{% endif %}
+
+
+{% endblock %}
