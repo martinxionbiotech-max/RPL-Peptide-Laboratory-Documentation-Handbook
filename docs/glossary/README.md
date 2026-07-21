@@ -1,8 +1,10 @@
-# Glossary
+# Peptide Glossary & Abbreviations
 
-Technical terminology and abbreviations used in RPL Peptide documentation.
+This glossary provides definitions for technical terms, abbreviations, and scientific concepts used throughout the RPL Peptide Documentation Library.
 
-## Sections
+## Contents
 
-- **Abbreviations** — Common abbreviations in peptide chemistry and analytics
-- **Peptide Glossary** — Full technical terminology reference
+- **[Abbreviations](abbreviations.md)** — Common laboratory and peptide science abbreviations
+- **[Peptide Glossary](peptide-glossary.md)** — Comprehensive peptide science terminology (A–Z)
+
+For product-specific glossary terms, refer to the Peptide Glossary chapter (Chapter 17) within each product's complete documentation.

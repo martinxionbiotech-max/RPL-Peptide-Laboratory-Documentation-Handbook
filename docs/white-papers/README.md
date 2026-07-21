@@ -1,10 +1,14 @@
-# White Papers
+# Technical White Papers
 
-Research-oriented information about peptide synthesis, purity standards, and industry best practices.
+This section provides in-depth technical white papers covering peptide science, quality concepts, and industry topics.
 
-## Topics
+## Available White Papers
 
-- Choosing a Peptide Supplier
-- Understanding Peptide Purity
-- Peptide Synthesis Methods
-- Lyophilization Overview
+| White Paper | Topics Covered |
+|:------------|:---------------|
+| [Choosing a Peptide Supplier](choosing-a-peptide-supplier.md) | Quality criteria, supplier evaluation, documentation requirements |
+| [Understanding Peptide Purity](understanding-peptide-purity.md) | Purity concepts, analytical methods, impurity profiles |
+| [Peptide Synthesis Methods](peptide-synthesis-methods.md) | SPPS chemistry, purification strategies, quality considerations |
+| [Lyophilization Overview](lyophilization-overview.md) | Freeze-drying process, formulation, stability implications |
+
+For product-specific white papers, refer to the White Paper chapter (Chapter 13) within each product's complete documentation.

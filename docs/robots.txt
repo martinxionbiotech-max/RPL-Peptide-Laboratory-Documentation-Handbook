@@ -1,5 +1,12 @@
-User-agent: *
-
+User-agent: GPTBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: *
+Allow: /
 Sitemap: https://data.rplpeptides.com/sitemap.xml

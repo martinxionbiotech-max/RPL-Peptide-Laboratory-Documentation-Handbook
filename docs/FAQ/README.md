@@ -1,15 +1,19 @@
 # Frequently Asked Questions
 
-Comprehensive answers to common questions about RPL Peptide products, COA interpretation, HPLC analysis, storage, stability, solubility, and reconstitution.
+Welcome to the RPL Peptide FAQ Library. This section provides answers to common questions about peptide research products, quality documentation, handling, and technical specifications.
 
-## Categories
+## Available FAQ Topics
 
-- COA FAQ
-- HPLC FAQ
-- Product FAQ
-- Stability FAQ
-- Storage FAQ
-- Solubility FAQ
-- Reconstitution FAQ
+| FAQ Topic | Covers |
+|:----------|:-------|
+| [COA FAQ](coa-faq.md) | Certificate of Analysis interpretation, batch data, HPLC traces |
+| [HPLC FAQ](hplc-faq.md) | Purity analysis methodology, column specifications, gradient conditions |
+| [Product FAQ](product-faq.md) | Product selection, MOQ, custom synthesis, shipping |
+| [Stability FAQ](stability-faq.md) | Long-term stability data, degradation pathways, shelf life |
+| [Storage FAQ](storage-faq.md) | Lyophilized and reconstituted storage conditions |
+| [Solubility FAQ](solubility-faq.md) | Recommended solvents, solubilization protocols |
+| [Reconstitution FAQ](reconstitution-faq.md) | Reconstitution techniques, concentration calculations |
 
-For detailed inquiries, please contact RPL Peptide directly.
+---
+
+For peptide-specific FAQs, refer to the FAQ Library chapter (Chapter 16) within each product's complete documentation.

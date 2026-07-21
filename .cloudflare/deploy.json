@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pip install -r requirements.txt && mkdocs build --strict",
+  "buildOutputDir": "site",
+  "installCommand": "pip install -r requirements.txt",
+  "nodeVersion": "18",
+  "rootDir": "/"
+}
