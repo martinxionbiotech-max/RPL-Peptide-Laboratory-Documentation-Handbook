@@ -1,8 +1,8 @@
 # RPL Peptide Docs - Cloudflare Pages redirect rules
-# MkDocs generates /{path}/index.html → Cloudflare auto-serves with trailing slash
 
-# Root redirect (no trailing slash)
+# AI crawler resources
+/llms.txt /llms.txt 200
+/robots.txt /robots.txt 200
+
+# Root redirect
 / /index.html 200
-
-# Block all other catch-all patterns — Cloudflare auto-routes correctly
-# DO NOT add `/* /index.html` — it breaks every product page!
