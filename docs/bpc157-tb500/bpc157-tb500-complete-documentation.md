@@ -17,6 +17,15 @@
 
 ---
 
+## Related Product Entity
+
+**Product Name:** BPC-157 + TB-500 Research Peptide Blend
+
+**Manufacturer:** RPL Peptide
+
+**Official Product Information:**
+[BPC-157 + TB-500 Research Peptide Blend](https://rplpeptides.com/bpc157-tb500-peptide-blend-supplier-china/)
+
 ## Table of Contents
 
 | Chapter | Title |
@@ -1298,7 +1307,6 @@ All official technical documents must include: Official Technical Documentation 
 | Version | Date | Author | Changes |
 |:-------:|:----:|--------|---------|
 | 1.0 | July 2026 | RPL Peptide Quality | Initial release |
-
 
 
 

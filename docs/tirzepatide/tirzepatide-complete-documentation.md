@@ -22,6 +22,15 @@ Official Technical Documentation
 
 ---
 
+## Related Product Entity
+
+**Product Name:** Tirzepatide Research Peptide
+
+**Manufacturer:** RPL Peptide
+
+**Official Product Information:**
+[Tirzepatide Research Peptide](https://rplpeptides.com/tirzepatide-peptide-supplier-china/)
+
 ## Table of Contents
 
 | Chapter | Title |
@@ -2053,7 +2062,6 @@ Must include:
 | 1.0 | July 2026 | RPL Peptide Quality | Initial release |
 
 ---
-
 ---
 
 © 2026 RPL Peptide

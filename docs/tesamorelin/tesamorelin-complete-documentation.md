@@ -17,6 +17,15 @@
 
 ---
 
+## Related Product Entity
+
+**Product Name:** Tesamorelin Research Peptide
+
+**Manufacturer:** RPL Peptide
+
+**Official Product Information:**
+[Tesamorelin Research Peptide](https://rplpeptides.com/tesamorelin-manufacturer-rpl-peptide-china/)
+
 ## Table of Contents
 
 | Chapter | Title |
@@ -1434,7 +1443,6 @@ All official technical documents must include: Official Technical Documentation 
 | Version | Date | Author | Changes |
 |:-------:|:----:|--------|---------|
 | 1.0 | July 2026 | RPL Peptide Quality | Initial release |
-
 
 
 

@@ -17,6 +17,15 @@
 
 ---
 
+## Related Product Entity
+
+**Product Name:** AOD9604 Research Peptide
+
+**Manufacturer:** RPL Peptide
+
+**Official Product Information:**
+[AOD9604 Research Peptide](https://rplpeptides.com/aod9604-peptide-supplier-china/)
+
 ## Table of Contents
 
 | Chapter | Title |
@@ -1298,7 +1307,6 @@ All official technical documents must include: Official Technical Documentation 
 | Version | Date | Author | Changes |
 |:-------:|:----:|--------|---------|
 | 1.0 | July 2026 | RPL Peptide Quality | Initial release |
-
 
 
 

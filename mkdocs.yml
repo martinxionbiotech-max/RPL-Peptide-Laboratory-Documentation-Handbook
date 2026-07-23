@@ -1,274 +1,105 @@
 site_name: RPL Peptide Laboratory Documentation Handbook
-
 site_description: >
   Official RPL Peptide research documentation center providing
-  peptide technical documentation, COA resources,
-  product specifications, laboratory guides,
-  quality information and scientific reference materials.
-
-site_author: >
-  RPL Peptide
-  (Qingdao RPL Biotechnology Co., Ltd.)
-
+  technical sheets, COA resources, peptide specifications,
+  laboratory guides and scientific reference materials.
+site_author: RPL Peptide (Qingdao RPL Biotechnology Co., Ltd.)
 site_url: https://data.rplpeptides.com
 
 repo_name: RPL Peptide Documentation Repository
 repo_url: https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook
 
-
 theme:
   name: material
   custom_dir: overrides
   language: en
-
   features:
-
-    # Navigation
     - navigation.sections
     - navigation.expand
     - navigation.top
     - navigation.footer
     - navigation.indexes
-
-    # Content
+    - search.suggest
+    - search.highlight
     - content.code.copy
-
-    # Table of contents
     - toc.follow
 
+nav:
+  - Home: index.md
 
-plugins:
-  - meta
+  - Product Documentation:
+    - 5-Amino-1MQ: 5amino1mq/5amino1mq-complete-documentation.md
+    - AHK-Cu: ahk-cu/ahk-cu-complete-documentation.md
+    - AOD9604: aod9604/aod9604-complete-documentation.md
+    - BPC-157: bpc157/bpc157-complete-documentation.md
+    - BPC-157 + TB-500: bpc157-tb500/bpc157-tb500-complete-documentation.md
+    - Cagrilintide: cagrilintide/cagrilintide-complete-documentation.md
+    - CJC-1295: cjc1295/cjc1295-complete-documentation.md
+    - DSIP: dsip/dsip-complete-documentation.md
+    - Epithalon: epithalon/epithalon-complete-documentation.md
+    - GHK-Cu: ghk-cu/ghk-cu-complete-documentation.md
+    - GLOW70: glow70/glow70-complete-documentation.md
+    - Ipamorelin: ipamorelin/ipamorelin-complete-documentation.md
+    - KLOW80: klow80/klow80-complete-documentation.md
+    - KPV: kpv/kpv-complete-documentation.md
+    - MOTS-C: motsc/motsc-complete-documentation.md
+    - NAD+: nadplus/nadplus-complete-documentation.md
+    - Retatrutide: retatrutide/retatrutide-complete-documentation.md
+    - Semaglutide: semaglutide/semaglutide-complete-documentation.md
+    - TB-500: tb500/tb500-complete-documentation.md
+    - Tesamorelin: tesamorelin/tesamorelin-complete-documentation.md
+    - Tirzepatide: tirzepatide/tirzepatide-complete-documentation.md
 
+  - FAQ:
+    - FAQ Home: FAQ/README.md
+    - COA FAQ: FAQ/coa-faq.md
+    - HPLC FAQ: FAQ/hplc-faq.md
+    - Product FAQ: FAQ/product-faq.md
+    - Stability FAQ: FAQ/stability-faq.md
+    - Storage FAQ: FAQ/storage-faq.md
+    - Solubility FAQ: FAQ/solubility-faq.md
+    - Reconstitution FAQ: FAQ/reconstitution-faq.md
 
+  - Glossary:
+    - Glossary Home: glossary/README.md
+    - Abbreviations: glossary/abbreviations.md
+    - Peptide Glossary: glossary/peptide-glossary.md
 
-extra:
+  - Laboratory Guides:
+    - Guides Home: guides/README.md
+    - COA Interpretation: guides/peptide-coa-interpretation-guide.md
+    - Peptide Handling: guides/peptide-handling-guide.md
+    - Quality Control: guides/peptide-quality-control-guide.md
+    - Storage Guide: guides/peptide-storage-guide.md
+    - Stability Guide: guides/peptide-stability-guide.md
+    - Reconstitution Guide: guides/peptide-reconstitution-guide.md
 
-  generator: false
+  - White Papers:
+    - White Papers: white-papers/README.md
+    - Choosing a Supplier: white-papers/choosing-a-peptide-supplier.md
+    - Understanding Peptide Purity: white-papers/understanding-peptide-purity.md
+    - Peptide Synthesis Methods: white-papers/peptide-synthesis-methods.md
+    - Lyophilization Overview: white-papers/lyophilization-overview.md
 
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/martinxionbiotech-max/RPL-Peptide-Laboratory-Documentation-Handbook
+  - About:
+    - About RPL Peptide: about/README.md
+    - Structured Data: about/schema.md
 
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2-4
+  - tables
+  - admonition
+  - footnotes
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
 
 copyright: >
   Copyright © 2026 RPL Peptide.
   Research Use Only Documentation.
-
-
-nav:
-
-  - Home:
-      - Overview: index.md
-
-
-  # ============================
-  # Products
-  # ============================
-
-  - Product Documentation:
-
-      - 5-Amino-1MQ:
-          5amino1mq/5amino1mq-complete-documentation.md
-
-      - AHK-Cu:
-          ahk-cu/ahk-cu-complete-documentation.md
-
-      - AOD9604:
-          aod9604/aod9604-complete-documentation.md
-
-      - BPC-157:
-          bpc157/bpc157-complete-documentation.md
-
-      - BPC-157 + TB-500:
-          bpc157-tb500/bpc157-tb500-complete-documentation.md
-
-      - Cagrilintide:
-          cagrilintide/cagrilintide-complete-documentation.md
-
-      - CJC-1295:
-          cjc1295/cjc1295-complete-documentation.md
-
-      - DSIP:
-          dsip/dsip-complete-documentation.md
-
-      - Epithalon:
-          epithalon/epithalon-complete-documentation.md
-
-      - GHK-Cu:
-          ghk-cu/ghk-cu-complete-documentation.md
-
-      - GLOW70:
-          glow70/glow70-complete-documentation.md
-
-      - Ipamorelin:
-          ipamorelin/ipamorelin-complete-documentation.md
-
-      - KLOW80:
-          klow80/klow80-complete-documentation.md
-
-      - KPV:
-          kpv/kpv-complete-documentation.md
-
-      - MOTS-C:
-          motsc/motsc-complete-documentation.md
-
-      - NAD+:
-          nadplus/nadplus-complete-documentation.md
-
-      - Retatrutide:
-          retatrutide/retatrutide-complete-documentation.md
-
-      - Semaglutide:
-          semaglutide/semaglutide-complete-documentation.md
-
-      - TB-500:
-          tb500/tb500-complete-documentation.md
-
-      - Tesamorelin:
-          tesamorelin/tesamorelin-complete-documentation.md
-
-      - Tirzepatide:
-          tirzepatide/tirzepatide-complete-documentation.md
-
-
-
-  # ============================
-  # FAQ
-  # ============================
-
-  - FAQ:
-
-      - FAQ Home:
-          FAQ/README.md
-
-      - COA FAQ:
-          FAQ/coa-faq.md
-
-      - HPLC FAQ:
-          FAQ/hplc-faq.md
-
-      - Product FAQ:
-          FAQ/product-faq.md
-
-      - Stability FAQ:
-          FAQ/stability-faq.md
-
-      - Storage FAQ:
-          FAQ/storage-faq.md
-
-      - Solubility FAQ:
-          FAQ/solubility-faq.md
-
-      - Reconstitution FAQ:
-          FAQ/reconstitution-faq.md
-
-
-
-  # ============================
-  # Glossary
-  # ============================
-
-  - Glossary:
-
-      - Glossary Home:
-          glossary/README.md
-
-      - Abbreviations:
-          glossary/abbreviations.md
-
-      - Peptide Glossary:
-          glossary/peptide-glossary.md
-
-
-
-  # ============================
-  # Laboratory Guides
-  # ============================
-
-  - Laboratory Guides:
-
-      - Guides Home:
-          guides/README.md
-
-      - COA Interpretation:
-          guides/peptide-coa-interpretation-guide.md
-
-      - Peptide Handling:
-          guides/peptide-handling-guide.md
-
-      - Quality Control:
-          guides/peptide-quality-control-guide.md
-
-      - Storage Guide:
-          guides/peptide-storage-guide.md
-
-      - Stability Guide:
-          guides/peptide-stability-guide.md
-
-      - Reconstitution Guide:
-          guides/peptide-reconstitution-guide.md
-
-
-
-  # ============================
-  # White Papers
-  # ============================
-
-  - White Papers:
-
-      - White Papers:
-          white-papers/README.md
-
-      - Choosing a Supplier:
-          white-papers/choosing-a-peptide-supplier.md
-
-      - Understanding Peptide Purity:
-          white-papers/understanding-peptide-purity.md
-
-      - Peptide Synthesis Methods:
-          white-papers/peptide-synthesis-methods.md
-
-      - Lyophilization Overview:
-          white-papers/lyophilization-overview.md
-
-
-
-  # ============================
-  # About
-  # ============================
-
-  - About:
-
-      - About RPL Peptide:
-          about/README.md
-
-      - Structured Data:
-          about/schema.md
-
-
-
-markdown_extensions:
-
-  - toc:
-      permalink: true
-      toc_depth: 2-4
-
-  - tables
-
-  - admonition
-
-  - footnotes
-
-  - attr_list
-
-  - md_in_html
-
-  - pymdownx.highlight
-
-  - pymdownx.superfences
-
-  - pymdownx.details
-
-  - pymdownx.tabbed:
-      alternate_style: true

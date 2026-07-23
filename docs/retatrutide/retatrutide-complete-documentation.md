@@ -22,6 +22,15 @@ Official Technical Documentation
 
 ---
 
+## Related Product Entity
+
+**Product Name:** Retatrutide Research Peptide
+
+**Manufacturer:** RPL Peptide
+
+**Official Product Information:**
+[Retatrutide Research Peptide](https://rplpeptides.com/retatrutide/)
+
 ## Table of Contents
 
 | Chapter | Title |
@@ -1105,7 +1114,6 @@ Restricted: COA (per batch with shipment).
 | 1.0 | July 2026 | RPL Peptide Quality | Initial release |
 
 ---
-
 ---
 
 © 2026 RPL Peptide
