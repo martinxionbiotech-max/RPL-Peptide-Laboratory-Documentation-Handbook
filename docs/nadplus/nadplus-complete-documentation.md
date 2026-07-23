@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** NAD+ Research Peptide
+**Product Name:** NAD+
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[NAD+ Research Peptide](https://rplpeptides.com/nad-powder-supplier-china/)
+[NAD+](https://rplpeptides.com/nad-powder-supplier-china/)
 
 ## Table of Contents
 

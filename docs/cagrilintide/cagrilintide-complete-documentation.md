@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** Cagrilintide Research Peptide
+**Product Name:** Cagrilintide
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Cagrilintide Research Peptide](https://rplpeptides.com/cagrilintide-peptide-supplier-china/)
+[Cagrilintide](https://rplpeptides.com/cagrilintide-peptide-supplier-china/)
 
 ## Table of Contents
 

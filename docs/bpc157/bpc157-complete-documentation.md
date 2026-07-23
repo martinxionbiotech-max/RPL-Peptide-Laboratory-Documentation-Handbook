@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** BPC-157 Research Peptide
+**Product Name:** BPC-157
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[BPC-157 Research Peptide](https://rplpeptides.com/bpc-157-peptide/)
+[BPC-157](https://rplpeptides.com/bpc-157-peptide/)
 
 ## Table of Contents
 

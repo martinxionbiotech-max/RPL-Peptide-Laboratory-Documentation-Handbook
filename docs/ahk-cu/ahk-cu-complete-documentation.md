@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** AHK-Cu Research Peptide
+**Product Name:** AHK-Cu
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[AHK-Cu Research Peptide](https://rplpeptides.com/ahk-cu-peptide-supplier-china/)
+[AHK-Cu](https://rplpeptides.com/ahk-cu-peptide-supplier-china/)
 
 ## Table of Contents
 

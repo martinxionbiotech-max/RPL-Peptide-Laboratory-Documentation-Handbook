@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** KPV Research Peptide
+**Product Name:** KPV
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[KPV Research Peptide](https://rplpeptides.com/kpv-peptide-supplier-china/)
+[KPV](https://rplpeptides.com/kpv-peptide-supplier-china/)
 
 ## Table of Contents
 

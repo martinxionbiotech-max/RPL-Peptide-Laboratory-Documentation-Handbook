@@ -24,12 +24,12 @@ Official Technical Documentation
 
 ## Related Product Entity
 
-**Product Name:** Retatrutide Research Peptide
+**Product Name:** Retatrutide
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Retatrutide Research Peptide](https://rplpeptides.com/retatrutide/)
+[Retatrutide](https://rplpeptides.com/retatrutide/)
 
 ## Table of Contents
 
@@ -206,7 +206,7 @@ RPL Peptide
 | **Amino Acid Count** | 39 |
 | **Peptide Type** | Synthetic triple receptor agonist |
 | **Target Receptors** | GLP-1R, GIPR, GCGR |
-| **Research Category** | Metabolic Research Peptides |
+| **Research Category** | Metabolics |
 
 ## Physical Properties
 
@@ -265,7 +265,7 @@ RPL Peptide
 
 | Field | Detail |
 |-------|--------|
-| **Product Name** | Retatrutide (Lyophilized Research Peptide) |
+| **Product Name** | Retatrutide (Lyophilized) |
 | **Chemical Family** | Synthetic Peptide / Biochemical Research Reagent |
 | **CAS Number** | 2381089-83-2 |
 | **Supplier** | RPL Peptide (Qingdao RPL Biotechnology Co., Ltd.) |

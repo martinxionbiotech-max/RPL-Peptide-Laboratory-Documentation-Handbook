@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** Ipamorelin Research Peptide
+**Product Name:** Ipamorelin
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Ipamorelin Research Peptide](https://rplpeptides.com/ipamorelin-peptide/)
+[Ipamorelin](https://rplpeptides.com/ipamorelin-peptide/)
 
 ## Table of Contents
 

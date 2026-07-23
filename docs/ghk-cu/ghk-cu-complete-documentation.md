@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** GHK-Cu (Copper Tripeptide-1) Research Peptide
+**Product Name:** GHK-Cu (Copper Tripeptide-1)
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[GHK-Cu (Copper Tripeptide-1) Research Peptide](https://rplpeptides.com/ghk-cu/)
+[GHK-Cu (Copper Tripeptide-1)](https://rplpeptides.com/ghk-cu/)
 
 ## Table of Contents
 

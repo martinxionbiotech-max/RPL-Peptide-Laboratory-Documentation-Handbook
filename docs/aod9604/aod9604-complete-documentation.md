@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** AOD9604 Research Peptide
+**Product Name:** AOD9604
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[AOD9604 Research Peptide](https://rplpeptides.com/aod9604-peptide-supplier-china/)
+[AOD9604](https://rplpeptides.com/aod9604-peptide-supplier-china/)
 
 ## Table of Contents
 

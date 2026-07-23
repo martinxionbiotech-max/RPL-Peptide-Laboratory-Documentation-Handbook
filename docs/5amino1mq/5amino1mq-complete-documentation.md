@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** 5-Amino-1MQ Research Peptide
+**Product Name:** 5-Amino-1MQ
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[5-Amino-1MQ Research Peptide](https://rplpeptides.com/5-amino-1mq-supplier-china/)
+[5-Amino-1MQ](https://rplpeptides.com/5-amino-1mq-supplier-china/)
 
 ## Table of Contents
 

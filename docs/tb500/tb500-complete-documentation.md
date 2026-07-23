@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** TB-500 (Thymosin Beta-4 Fragment) Research Peptide
+**Product Name:** TB-500 (Thymosin Beta-4 Fragment)
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[TB-500 (Thymosin Beta-4 Fragment) Research Peptide](https://rplpeptides.com/tb-500-peptide-thymosin-beta-4-fragment/)
+[TB-500 (Thymosin Beta-4 Fragment)](https://rplpeptides.com/tb-500-peptide-thymosin-beta-4-fragment/)
 
 ## Table of Contents
 

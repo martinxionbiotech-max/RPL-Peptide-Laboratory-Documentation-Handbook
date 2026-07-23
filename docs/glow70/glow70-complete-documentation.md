@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** GLOW70 Research Peptide
+**Product Name:** GLOW70
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[GLOW70 Research Peptide](https://rplpeptides.com/glow70-peptide/)
+[GLOW70](https://rplpeptides.com/glow70-peptide/)
 
 ## Table of Contents
 

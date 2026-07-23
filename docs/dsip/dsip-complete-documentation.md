@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** DSIP Research Peptide
+**Product Name:** DSIP
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[DSIP Research Peptide](https://rplpeptides.com/dsip-peptide/)
+[DSIP](https://rplpeptides.com/dsip-peptide/)
 
 ## Table of Contents
 

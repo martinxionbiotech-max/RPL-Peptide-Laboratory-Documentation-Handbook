@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** Epithalon (Epitalon) Research Peptide
+**Product Name:** Epithalon (Epitalon)
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Epithalon (Epitalon) Research Peptide](https://rplpeptides.com/epithalon-peptide-supplier-china/)
+[Epithalon (Epitalon)](https://rplpeptides.com/epithalon-peptide-supplier-china/)
 
 ## Table of Contents
 

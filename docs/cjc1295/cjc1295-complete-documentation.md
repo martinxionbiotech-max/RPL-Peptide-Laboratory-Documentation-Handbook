@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** CJC-1295 Research Peptide
+**Product Name:** CJC-1295
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[CJC-1295 Research Peptide](https://rplpeptides.com/cjc1295-peptide-supplier-china/)
+[CJC-1295](https://rplpeptides.com/cjc1295-peptide-supplier-china/)
 
 ## Table of Contents
 

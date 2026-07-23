@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** Semaglutide Research Peptide
+**Product Name:** Semaglutide
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Semaglutide Research Peptide](https://rplpeptides.com/semaglutide-peptide-supplier-china/)
+[Semaglutide](https://rplpeptides.com/semaglutide-peptide-supplier-china/)
 
 ## Table of Contents
 

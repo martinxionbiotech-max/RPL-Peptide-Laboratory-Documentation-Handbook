@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** Tesamorelin Research Peptide
+**Product Name:** Tesamorelin
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Tesamorelin Research Peptide](https://rplpeptides.com/tesamorelin-manufacturer-rpl-peptide-china/)
+[Tesamorelin](https://rplpeptides.com/tesamorelin-manufacturer-rpl-peptide-china/)
 
 ## Table of Contents
 

@@ -24,12 +24,12 @@ Official Technical Documentation
 
 ## Related Product Entity
 
-**Product Name:** Tirzepatide Research Peptide
+**Product Name:** Tirzepatide
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[Tirzepatide Research Peptide](https://rplpeptides.com/tirzepatide-peptide-supplier-china/)
+[Tirzepatide](https://rplpeptides.com/tirzepatide-peptide-supplier-china/)
 
 ## Table of Contents
 
@@ -224,7 +224,7 @@ Product Specifications
 | **Molecular Weight** | ~4,813 Da |
 | **Amino Acid Count** | 39 |
 | **Peptide Type** | Synthetic dual incretin receptor agonist |
-| **Research Category** | Metabolic Research Peptides |
+| **Research Category** | Metabolics |
 
 ## Physical Properties
 
@@ -309,7 +309,7 @@ Safety Data Sheet
 
 | Field | Detail |
 |-------|--------|
-| **Product Name** | Tirzepatide (Lyophilized Research Peptide) |
+| **Product Name** | Tirzepatide (Lyophilized) |
 | **Chemical Family** | Synthetic Peptide / Biochemical Research Reagent |
 | **CAS Number** | 2023788-19-2 |
 | **Supplier** | RPL Peptide (Qingdao RPL Biotechnology Co., Ltd.) |

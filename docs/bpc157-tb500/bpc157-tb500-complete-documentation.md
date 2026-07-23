@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** BPC-157 + TB-500 Research Peptide Blend
+**Product Name:** BPC-157 + TB-500 Blend
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[BPC-157 + TB-500 Research Peptide Blend](https://rplpeptides.com/bpc157-tb500-peptide-blend-supplier-china/)
+[BPC-157 + TB-500 Blend](https://rplpeptides.com/bpc157-tb500-peptide-blend-supplier-china/)
 
 ## Table of Contents
 

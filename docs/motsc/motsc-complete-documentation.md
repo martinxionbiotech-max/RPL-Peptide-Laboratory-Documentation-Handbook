@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** MOTS-C Research Peptide
+**Product Name:** MOTS-C
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[MOTS-C Research Peptide](https://rplpeptides.com/mots-c-manufacturer-rpl-peptide-china/)
+[MOTS-C](https://rplpeptides.com/mots-c-manufacturer-rpl-peptide-china/)
 
 ## Table of Contents
 

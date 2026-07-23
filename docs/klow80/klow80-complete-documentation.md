@@ -19,12 +19,12 @@
 
 ## Related Product Entity
 
-**Product Name:** KLOW80 Research Peptide
+**Product Name:** KLOW80
 
 **Manufacturer:** RPL Peptide
 
 **Official Product Information:**
-[KLOW80 Research Peptide](https://rplpeptides.com/klow80-peptide-china-supplier/)
+[KLOW80](https://rplpeptides.com/klow80-peptide-china-supplier/)
 
 ## Table of Contents
 
